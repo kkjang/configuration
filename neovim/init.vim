@@ -64,3 +64,6 @@ set noswapfile
 
 " Automatically format terraform files
 let g:terraform_fmt_on_save=1
+
+" Install powerline-fonts first: https://github.com/powerline/fonts
+let g:airline_powerline_fonts = 1
